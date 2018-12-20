@@ -1,0 +1,17 @@
+A spacecraft designed to pick up pieces of an asteroid and bring them back to Earth has finally reached its destination. After a two-year journey, NASA¡¯s OSIRIS-REx spacecraft caught up with asteroid Bennu, currently located nearly 130 million kilometers from Earth, on December 3.
+
+¡°We have arrived!¡± Javier Cerna, a telecommunications systems engineer with aerospace and defense company Lockheed Martin in Littleton, Colo., announced when the spacecraft signal came through.
+
+At just 500 meters wide, Bennu is the smallest object ever to be ¡°orbited¡± by a spacecraft. But the asteroid¡¯s slight gravity is too weak to keep OSIRIS-REx in a circular orbit the way a satellite might orbit a planet like Earth. So the spacecraft will perform a series of precision maneuvers to keep up with the asteroid.
+
+¡°It will really be record-breaking in terms of the precision navigation that we¡¯ve done in space,¡± said navigation engineer Coralie Adam of KinetX Aerospace, an Arizona-based engineering company.
+
+Over the next 18 months, OSIRIS-REx will map the asteroid with five scientific instruments and pick out the best spot to grab material from one of the oldest objects in the solar system.
+
+Planetary scientists think Bennu is a leftover remnant from the earliest days of the solar system, about 4.5 billion years ago. Remote observations have shown that the asteroid is rich in carbon, a necessary ingredient for life on Earth. Such asteroids could have brought organic molecules to Earth or other planetary bodies, and may hold the key to understanding the origins of life.
+
+But scientists need samples from such asteroids as Bennu to figure that out. OSIRIS-REx will use an instrument called TAGSAM, short for Touch-And-Go Sample Acquisition Mechanism, to pick up 60 grams to two kilograms of dust and sand from Bennu¡¯s surface. That sample will be the largest returned from space since the Apollo missions to the moon in the 1970s, and the largest ever picked up by a robot. The probe will collect the material in 2020 and return it to Earth in 2023.
+
+¡°Our science team is very eager to study this material that we¡¯ll get back from Bennu,¡± said OSIRIS-REx project manager Rich Burns of NASA¡¯s Goddard Space Flight Center in Greenbelt, Md. ¡°This is material that¡¯s been around since the beginning of the solar system.¡±
+
+OSIRIS-REx is the first U.S. sample return mission to an asteroid, but not the first such mission overall. Japan¡¯s Hayabusa mission returned a tiny amount of asteroid Itokawa to Earth in 2010 (SN Online: 6/14/10). The follow-up mission, Hayabusa2, reached asteroid Ryugu in June and will return samples of that asteroid in 2020 (SN Online: 6/27/18).
